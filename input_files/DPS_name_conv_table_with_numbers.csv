@@ -1,0 +1,54 @@
+﻿Number,Species,DPS_me,DPS_short,DPS_WCR,Status,Region,Domain,abn_type
+1,Chinook,Sacramento River Winter-run Chinook Salmon,Sacramento River Winter Run,Chinook Salmon (Sacramento River winter-run ESU),E,CA,CA,abs
+2,Chinook,Upper Columbia River Spring-run Chinook Salmon ESU,Upper Columbia River Spring Run,Chinook Salmon (Upper Columbia River ESU) ,E,PNW,IC,abs
+3,Chinook,California Coastal Chinook salmon,California Coastal,Chinook Salmon (California Coastal ESU),T,CA,CA,index
+4,Chinook,Central Valley Spring-Run Chinook Salmon,Central Valley Spring Run,Chinook Salmon (Central Valley spring-run ESU),T,CA,CA,abs
+5,Chinook,Lower Columbia River Chinook Salmon ESU,Lower Columbia River,Chinook Salmon (Lower Columbia River ESU) ,T,PNW,LC,abs
+6,Chinook,Puget Sound Chinook Salmon ESU,Puget Sound,Chinook Salmon (Puget Sound ESU) ,T,PNW,NC,abs
+7,Chinook,Snake River Fall-run Chinook Salmon ESU,Snake River Fall-Run,Chinook Salmon (Snake River Fall Run) ,T,PNW,IC,abs
+8,Chinook,Snake River Spring-Summer-run Chinook Salmon ESU,Snake River Spring-Summer Run,Chinook Salmon (Snake River spring/summer-run ESU) ,T,PNW,IC,abs
+9,Chinook,Upper Willamette River Chinook Salmon ESU,Upper Willamette River,Chinook Salmon (Upper Willamette River ESU) ,T,PNW,LC,abs
+10,Chinook,Central Valley fall-late fall-run Chinook Salmon,Central Valley fall-late-fall Run,Chinook Salmon (Central Valley fall-run ESU),U,CA,CA,abs
+11,Chinook,Deschutes River Summer-Fall-run Chinook Salmon,Deschutes River Summer-Fall Run,Chinook Salmon (Deschutes River),U,PNW,IC,abs
+12,Chinook,Chinook Salmon (Mid-Columbia River Spring-Run),Mid-Columbia River Spring Run,Chinook Salmon (Mid-Columbia River Spring-Run),U,PNW,IC,abs
+13,Chinook,Oregon Coast Chinook salmon,Oregon Coast,Chinook Salmon (Oregon Coast),U,PNW,NC,abs
+14,Chinook,Southern Oregon Northern California Chinook salmon,Southern Oregon Northern California,Chinook Salmon (Southern Oregon Northern California Coast),U,PNW,NC,abs
+15,Chinook,Up. Klamath - Trinity River Chinook,Up. Klamath - Trinity River,Chinook Salmon (Upper Klamath and Trinity Rivers),U,CA,CA,abs
+16,Chinook,Upper Columbia River Summer and Fall Run Chinook,Upper Columbia River Summer and Fall Run,Chinook Salmon (Upper-Columbia River Summer-fall-Run),U,PNW,IC,abs
+17,Chinook,Washington Coast Chinook,Washington Coast,Chinook Salmon (Washington Coast),U,PNW,NC,abs
+18,Chum,Columbia River Chum Salmon ESU,Columbia River,Chum Salmon (Columbia River ESU) ,T,PNW,LC,abs
+19,Chum,Hood Canal Summer-run Chum Salmon ESU,Hood Canal Summer Run,Chum Salmon (Hood Canal ESU) ,T,PNW,NC,abs
+20,Chum,Pacific Coast Chum,Pacific Coast,Chum Salmon (Pacific Coast),U,PNW,NC,index
+21,Chum,Puget Sound-Strait of Georgia Chum,Puget Sound-Strait of Georgia,Chum Salmon (Puget Sound Strait of Georgia),U,PNW,NC,abs
+22,Coho,Central California Coast coho salmon,Central California Coast,Coho Salmon (Central California Coast ESU),E,CA,CA,index
+23,Coho,Lower Columbia River Coho Salmon ESU,Lower Columbia River,Coho Salmon (Lower Columbia River ESU) ,T,PNW,LC,abs
+24,Coho,Oregon Coast Coho Salmon ESU,Oregon Coast,Coho Salmon (Oregon Coast) ,T,PNW,NC,abs
+25,Coho,So Oregon - Northern CA coho,Southern Oregon Northern California,Coho Salmon (Southern Oregon Northern California Coast ESU),T,PNW,NC,index
+26,Coho,Olympic Peninsula Coho,Olympic Peninsula,Coho Salmon (Olympic Peninula),U,PNW,NC,abs
+27,Coho,Puget Sound-Strait of Georgia Coho,Puget Sound and Strait of Georgia,Coho Salmon (Puget Sound and Strait of Georgia),U,PNW,NC,abs
+28,Coho,Washington Coast Coho,Washington Coast,Coho Salmon (Washington Coast),U,PNW,NC,abs
+29,Pink,Even-year Pink,Even Year,Pink Salmon (Washington Even-year),U,PNW,NC,index
+30,Pink,Odd-year Pink,Odd Year,Pink Salmon (Washington Odd-year),U,PNW,NC,abs
+31,Sockeye,Snake River Sockeye Salmon ESU,Snake River,Sockeye Salmon (Snake River),E,PNW,IC,abs
+32,Sockeye,Ozette Lake Sockeye Salmon ESU,Ozette Lake,Sockeye Salmon (Ozette Lake) ,T,PNW,NC,abs
+33,Sockeye,Baker River Sockeye,Baker River,Sockeye Salmon (Baker River),U,PNW,NC,abs
+34,Sockeye,Big Bear Creek (provisional) Sockeye,Big Bear Creek,Big Bear Creek (Lake Washington),U,PNW,NC,abs
+35,Sockeye,Lake Pleasant Sockeye,Lake Pleasant,Sockeye Salmon (Lake Pleasant),U,PNW,NC,abs
+36,Sockeye,Lake Wenatchee Sockeye,Lake Wenatchee,Sockeye Salmon (Lake Wenatchee),U,PNW,NC,abs
+37,Sockeye,Okanogan River Sockeye,Okanogan River,Sockeye Salmon (Okanogan River),U,PNW,NC,abs
+38,Sockeye,Quinault Lake Sockeye,Quinault Lake,Sockeye Salmon (Quinault Lake),U,PNW,NC,abs
+39,Steelhead,Steelhead (Southern California Coast DPS),Southern California Coast,Steelhead (Southern California Coast DPS),E,CA,CA,index
+40,Steelhead,California Central Valley Steelhead,California Central Valley,Steelhead (Central Valley DPS),T,CA,CA,index
+41,Steelhead,Central California Coast steelhead,Central California Coast,Steelhead (California Central Coast DPS),T,CA,CA,index
+42,Steelhead,Lower Columbia River Steelhead DPS,Lower Columbia River,Steelhead (Lower Columbia River DPS) ,T,PNW,LC,index
+43,Steelhead,Middle Columbia River Steelhead DPS,Middle Columbia River,Steelhead (Middle Columbia River DPS) ,T,PNW,IC,abs
+44,Steelhead,Northern California steelhead,Northern California,Steelhead (Northern California Coast DPS),T,CA,CA,index
+45,Steelhead,Puget Sound Steelhead DPS,Puget Sound,Steelhead Salmon (Puget Sound) ,T,PNW,NC,index
+46,Steelhead,Snake River Basin Steelhead DPS,Snake River Basin,Steelhead (Snake River Basin DPS) ,T,PNW,IC,abs
+47,Steelhead,Steelhead (South-central California Coast DPS),South-central California Coast,Steelhead (South-central California Coast DPS),T,CA,CA,index
+48,Steelhead,Upper Columbia River Steelhead DPS,Upper Columbia River,Steelhead (Upper Columbia River DPS) ,T,PNW,IC,abs
+49,Steelhead,Steelhead Salmon (Upper Willamette River),Upper Willamette River,Steelhead (Upper Willamette River) ,T,PNW,LC,abs
+50,Steelhead,Steelhead (Klamath Mountains Province),Klamath Mountains Province,Steelhead (Klamath Mountains Province),U,PNW,NC,index
+51,Steelhead,Olympic Peninsula Steelhead,Olympic Peninsula,Steelhead (Olympic Peninsula),U,PNW,NC,index
+52,Steelhead,Steelhead (Oregon Coast),Oregon Coast,Steelhead (Oregon Coast),U,PNW,NC,abs
+53,Steelhead,Southwest Washington Steelhead,Southwest Washington,Steelhead (Southwest Washington),U,PNW,NC,abs

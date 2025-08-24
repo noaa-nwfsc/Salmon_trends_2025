@@ -1,0 +1,188 @@
+,name,run
+1,Chinook_California Coastal Chinook salmon_freshwtrcrk,late
+2,Chinook_California Coastal Chinook salmon_russianriv,late
+3,Chinook_California Coastal Chinook salmon_vanarsdale,late
+4,Chinook_Central Valley fall-late fall-run Chinook Salmon_americanriv.chin.fall,late
+5,Chinook_Central Valley fall-late fall-run Chinook Salmon_battlecrk.chin.fall,late
+6,Chinook_Central Valley fall-late fall-run Chinook Salmon_battlecrk.chin.latefall,late
+7,Chinook_Central Valley fall-late fall-run Chinook Salmon_buttecrk.chin.fall,late
+8,Chinook_Central Valley fall-late fall-run Chinook Salmon_clearcrk.chin.fall,late
+9,Chinook_Central Valley fall-late fall-run Chinook Salmon_clearcrk.chin.latefall,late
+10,Chinook_Central Valley fall-late fall-run Chinook Salmon_cosumnesriv.chin.fall,late
+11,Chinook_Central Valley fall-late fall-run Chinook Salmon_cottonwoodcrk.chin.fall,late
+12,Chinook_Central Valley fall-late fall-run Chinook Salmon_cowcrk.chin.fall,late
+13,Chinook_Central Valley fall-late fall-run Chinook Salmon_deercrk.chin.fall,late
+14,Chinook_Central Valley fall-late fall-run Chinook Salmon_featherriv.chin.fall,late
+15,Chinook_Central Valley fall-late fall-run Chinook Salmon_mercedriv.chin.fall,late
+16,Chinook_Central Valley fall-late fall-run Chinook Salmon_millcrk.chin.fall,late
+17,Chinook_Central Valley fall-late fall-run Chinook Salmon_mokelumneriv.chin.fall,late
+18,Chinook_Central Valley fall-late fall-run Chinook Salmon_sacramentoriv.chin.fall,late
+19,Chinook_Central Valley fall-late fall-run Chinook Salmon_sacramentoriv.chin.latefall,late
+20,Chinook_Central Valley fall-late fall-run Chinook Salmon_stanislausriv.chin.fall,late
+21,Chinook_Central Valley fall-late fall-run Chinook Salmon_tuolumneriv.chin.fall,late
+22,Chinook_Central Valley fall-late fall-run Chinook Salmon_yubariv.chin.fall,late
+23,Chinook_Central Valley Spring-Run Chinook Salmon_antelopecrk.chin.spr,early
+24,Chinook_Central Valley Spring-Run Chinook Salmon_battlecrk.chin.spr,early
+25,Chinook_Central Valley Spring-Run Chinook Salmon_bigchicocrk.chin.spr,early
+26,Chinook_Central Valley Spring-Run Chinook Salmon_buttecrk.chin.spr,early
+27,Chinook_Central Valley Spring-Run Chinook Salmon_clearcrk.chin.spr,early
+28,Chinook_Central Valley Spring-Run Chinook Salmon_cottonwoodcrk.chin.spr,early
+29,Chinook_Central Valley Spring-Run Chinook Salmon_deercrk.chin.spr,early
+30,Chinook_Central Valley Spring-Run Chinook Salmon_millcrk.chin.spr,early
+31,Chinook_Central Valley Spring-Run Chinook Salmon_sacramentoriv.chin.spr,early
+32,Chinook_Central Valley Spring-Run Chinook Salmon_yubariv.chin.spr,early
+33,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_American River Spring Chinook-,early
+34,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_Klickitat Spring Chinook-,early
+35,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_Middle Fork John Day spring Chinook salmon,early
+36,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_Naches Spring Chinook-,early
+37,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_North Fork John Day spring Chinook salmon,early
+38,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_Upper John Day spring Chinook salmon,early
+39,Chinook_Chinook Salmon (Mid-Columbia River Spring-Run)_Upper Yakima River Spring Chinook-,early
+40,Chinook_Deschutes River Summer-Fall-run Chinook Salmon_Deschutes Fall Chinook,late
+41,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Clatskanie River Fall-run,late
+42,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Coweeman River Fall-run,late
+43,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Elochoman River Fall-run,late
+44,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Grays River Fall-run,late
+45,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Kalama River Fall-run,late
+46,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Kalama River Spring-run,early
+47,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Lewis River Bright,late
+48,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Lewis River Fall-run,late
+49,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Lower Cowlitz River Fall-run,late
+50,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Lower Gorge Tributaries Fall-run,late
+51,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Mill Creek Fall-run,late
+52,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - North Fork Lewis River Spring-run,early
+53,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Sandy River Bright,late
+54,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Toutle River Fall-run,late
+55,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Upper Cowlitz River Fall-run,late
+56,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Upper Gorge Tributaries Fall-run,late
+57,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - Washougal River Fall-run,late
+58,Chinook_Lower Columbia River Chinook Salmon ESU_Chinook Salmon (Lower Columbia River ESU) - White Salmon River Fall-run,late
+59,Chinook_Oregon Coast Chinook salmon_Alsea fall Chinook,late
+60,Chinook_Oregon Coast Chinook salmon_Coos fall Chinook,late
+61,Chinook_Oregon Coast Chinook salmon_Coquille fall Chinook,late
+62,Chinook_Oregon Coast Chinook salmon_Elk fall Chinook,late
+63,Chinook_Oregon Coast Chinook salmon_Floras fall Chinook,late
+64,Chinook_Oregon Coast Chinook salmon_Nehalem fall Chinook,late
+65,Chinook_Oregon Coast Chinook salmon_Nestucca fall Chinook,late
+66,Chinook_Oregon Coast Chinook salmon_North.Umpqua spring Chinook,early
+67,Chinook_Oregon Coast Chinook salmon_Salmon fall Chinook,late
+68,Chinook_Oregon Coast Chinook salmon_Siletz fall Chinook,late
+69,Chinook_Oregon Coast Chinook salmon_Siuslaw fall Chinook,late
+70,Chinook_Oregon Coast Chinook salmon_Sixes fall Chinook,late
+71,Chinook_Oregon Coast Chinook salmon_South.Umpqua spring Chinook,early
+72,Chinook_Oregon Coast Chinook salmon_Tillamook fall Chinook,late
+73,Chinook_Oregon Coast Chinook salmon_Umpqua fall Chinook,late
+74,Chinook_Oregon Coast Chinook salmon_Yaquina fall Chinook,late
+75,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Cascade River,early
+76,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Cedar River,late
+77,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Dungeness River,early
+78,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Elwha River,late
+79,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Green River,late
+80,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Lower Sauk River,late
+81,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Lower Skagit River,late
+82,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Lower/North Fork/Middle Fork Nooksack,early
+83,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Mid-Hood Canal,late
+84,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Nisqually River,late
+85,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - North Fork Stillaguamish River,late
+86,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Puyallup River,late
+87,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Sammamish River,late
+88,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Skokomish River,late
+89,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Skykomish River,late
+90,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Snoqualmie River,late
+91,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - South Fork Nooksack River,early
+92,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - South Fork/Mainstem Stillaguamish River,late
+93,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Suiattle River,early
+94,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Upper Sauk River,early
+95,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - Upper Skagit River,late
+96,Chinook_Puget Sound Chinook Salmon ESU_Chinook Salmon (Puget Sound ESU) - White River,early
+97,Chinook_Sacramento River Winter-run Chinook Salmon_sacramentoriv.chin.win,early
+98,Chinook_Snake River Fall-run Chinook Salmon ESU_Chinook Salmon (Snake River Fall-run ESU) - Snake River Lower Mainstem,late
+99,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Bear Valley Creek,early
+100,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Big Creek,early
+101,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Camas Creek,early
+102,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Catherine Creek,early
+103,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Chamberlain Creek,early
+104,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - East Fork Salmon River,early
+105,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - East Fork South Fork Salmon River,early
+106,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Grande Ronde River Upper Mainstem,early
+107,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Imnaha River Mainstem,early
+108,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Lemhi River,early
+109,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Loon Creek,early
+110,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Lostine River,early
+111,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Marsh Creek,early
+112,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Middle Fork Salmon River above Indian Creek,early
+113,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Middle Fork Salmon River below Indian Creek,early
+114,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Minam River,early
+115,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - North Fork Salmon River,early
+116,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Pahsimeroi River,early
+117,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Salmon River Lower Mainstem below Redfish Lake,early
+118,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Salmon River Upper Mainstem above Redfish Lake,early
+119,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Secesh River,early
+120,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - South Fork Salmon River Mainstem,early
+121,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Sulphur Creek,early
+122,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Tucannon River,early
+123,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Valley Creek,early
+124,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Wenaha River,early
+125,Chinook_Snake River Spring-Summer-run Chinook Salmon ESU_Chinook Salmon (Snake River Spring/Summer-run ESU) - Yankee Fork,early
+126,Chinook_Southern Oregon Northern California Chinook salmon_Blue Creek (Klamath) fall Chinook,late
+127,Chinook_Southern Oregon Northern California Chinook salmon_Chetco fall Chinook,late
+128,Chinook_Southern Oregon Northern California Chinook salmon_Hunter fall Chinook,late
+129,Chinook_Southern Oregon Northern California Chinook salmon_lower Rogue fall Chinook,late
+130,Chinook_Southern Oregon Northern California Chinook salmon_Pistol fall Chinook,late
+131,Chinook_Southern Oregon Northern California Chinook salmon_Rogue fall Chinook,late
+132,Chinook_Southern Oregon Northern California Chinook salmon_Rogue spring Chinook,early
+133,Chinook_Southern Oregon Northern California Chinook salmon_Winchuck fall Chinook,late
+134,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_boguscrk.chinook.fall,late
+135,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_salmonriv.chinook.spring,early
+136,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_scottriv.chinook.fall,late
+137,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_shastariv.chinook.fall,late
+138,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_southforktrinity.chinook.fall,late
+139,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_upperklamath.chinook.fall,late
+140,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_uppertrinity.chinook.fall,late
+141,Chinook_Up. Klamath - Trinity River Chinook_klamathriv_uppertrinity.chinook.spring,early
+142,Chinook_Upper Columbia River Spring-run Chinook Salmon ESU_Chinook Salmon (Upper Columbia River Spring-run ESU) - Entiat River,early
+143,Chinook_Upper Columbia River Spring-run Chinook Salmon ESU_Chinook Salmon (Upper Columbia River Spring-run ESU) - Methow River,early
+144,Chinook_Upper Columbia River Spring-run Chinook Salmon ESU_Chinook Salmon (Upper Columbia River Spring-run ESU) - Wenatchee River,early
+145,Chinook_Upper Columbia River Summer and Fall Run Chinook_Big White Salmon River Late Fall (Bright) Chinook-,late
+146,Chinook_Upper Columbia River Summer and Fall Run Chinook_Hanford Reach Fall Chinook-,late
+147,Chinook_Upper Columbia River Summer and Fall Run Chinook_Klickitat Fall (Tule) Chinook-,late
+148,Chinook_Upper Columbia River Summer and Fall Run Chinook_Klickitat Late Fall (Bright) Chinook-,late
+149,Chinook_Upper Columbia River Summer and Fall Run Chinook_Lake Chelan Summer Chinook-,early
+150,Chinook_Upper Columbia River Summer and Fall Run Chinook_Methow Summer Chinook-,early
+151,Chinook_Upper Columbia River Summer and Fall Run Chinook_Okanogan Summer Chinook-,early
+152,Chinook_Upper Columbia River Summer and Fall Run Chinook_Upper Gorge (Columbia) Late Fall (Bright) Chinook-Little White Salmon River (Drano) Late Fall (Bright) Chinook,late
+153,Chinook_Upper Columbia River Summer and Fall Run Chinook_Upper Gorge (Columbia) Late Fall (Bright) Chinook-Wind River Late Fall (Bright) Chinook,late
+154,Chinook_Upper Columbia River Summer and Fall Run Chinook_Wenatchee Summer Chinook-,early
+155,Chinook_Upper Columbia River Summer and Fall Run Chinook_Yakima River Bright Fall Chinook-,late
+156,Chinook_Upper Willamette River Chinook Salmon ESU_Salmon (Chinook (Upper Willamette River ESU) - Willamette Falls esc,early
+157,Chinook_Washington Coast Chinook_Bear River Fall Chinook-,late
+158,Chinook_Washington Coast Chinook_Calawah Fall Chinook-,late
+159,Chinook_Washington Coast Chinook_Calawah Summer Chinook-,early
+160,Chinook_Washington Coast Chinook_Chehalis Fall Chinook-,late
+161,Chinook_Washington Coast Chinook_Chehalis Spring Chinook-,early
+162,Chinook_Washington Coast Chinook_Clearwater Fall Chinook-,late
+163,Chinook_Washington Coast Chinook_Clearwater Spring/Summer Chinook-,early
+164,Chinook_Washington Coast Chinook_Cook Creek Fall Chinook-,late
+165,Chinook_Washington Coast Chinook_Dickey Fall Chinook-,late
+166,Chinook_Washington Coast Chinook_Hoh Fall Chinook-,late
+167,Chinook_Washington Coast Chinook_Hoh Spring/Summer Chinook-,early
+168,Chinook_Washington Coast Chinook_Hoko Fall Chinook-,late
+169,Chinook_Washington Coast Chinook_Hoquiam Fall Chinook-,late
+170,Chinook_Washington Coast Chinook_Humptulips Fall Chinook-,late
+171,Chinook_Washington Coast Chinook_Naselle Fall Chinook-,late
+172,Chinook_Washington Coast Chinook_Nemah Fall Chinook-,late
+173,Chinook_Washington Coast Chinook_North River/Smith Creek Fall Chinook-,late
+174,Chinook_Washington Coast Chinook_Palix Fall Chinook-,late
+175,Chinook_Washington Coast Chinook_Queets Fall Chinook-,late
+176,Chinook_Washington Coast Chinook_Queets Spring/Summer Chinook-,early
+177,Chinook_Washington Coast Chinook_Quillayute/Bogachiel Fall Chinook-,late
+178,Chinook_Washington Coast Chinook_Quillayute/Bogachiel Summer Chinook-,early
+179,Chinook_Washington Coast Chinook_Quinault Fall Chinook-,late
+180,Chinook_Washington Coast Chinook_Quinault Spring/Summer Chinook-,early
+181,Chinook_Washington Coast Chinook_Satsop Fall Chinook-,late
+182,Chinook_Washington Coast Chinook_Satsop Summer Chinook-,early
+183,Chinook_Washington Coast Chinook_Sol Duc Fall Chinook-,late
+184,Chinook_Washington Coast Chinook_Sol Duc Summer Chinook-,early
+185,Chinook_Washington Coast Chinook_Willapa Fall Chinook-,late
+186,Chinook_Washington Coast Chinook_Wishkah Fall Chinook-,late
+187,Chinook_Washington Coast Chinook_Wynoochee Fall Chinook-,late

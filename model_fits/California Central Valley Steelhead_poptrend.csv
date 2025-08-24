@@ -1,0 +1,8 @@
+"","population","type","start.year","stop.year","trend.mean","trend.se","ESU"
+"1","mokelumneriv.sthd","Total",1995,2020,0.0533076254913111,0.00975829366220537,"California Central Valley Steelhead"
+"2","americanriv.sthd","Total",1995,2020,-0.0882716623732925,0.00746201467064533,"California Central Valley Steelhead"
+"3","americanriv.sthd","Natural",1995,2020,-0.0653731903619911,0.0382993755773403,"California Central Valley Steelhead"
+"4","clearcrk.sthd","Total",1995,2020,0.0268021194308193,0.00872913463040578,"California Central Valley Steelhead"
+"5","stanislausriv.sthd","Total",1995,2020,0.0852370538470582,0.0125073196240244,"California Central Valley Steelhead"
+"6","yubariv.sthd","Total",1995,2020,-0.00805167801657898,0.0140182845651736,"California Central Valley Steelhead"
+"7","yubariv.sthd","Natural",1995,2020,0.023631937362135,0.0376045979014757,"California Central Valley Steelhead"

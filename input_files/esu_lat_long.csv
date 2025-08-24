@@ -1,0 +1,54 @@
+ESU,COUNT,AVE_X_CENT,AVE_Y_CENT,SOURCETHM,SPECIES,ESU2
+California Coastal Chinook Salmon,159,-123.5416,39.827,XY_R_ch,Chinook,California Coastal Chinook salmon
+Central Valley Fall & Late Fall-run Chinook Salmon,18,-122.0707,40.0651,XY_R_ch_fa,Chinook,Central Valley fall-late fall-run Chinook Salmon
+Central Valley Spring-run Chinook Salmon,41,-121.974,40.08,XY_R_ch_sp,Chinook,Central Valley Spring-Run Chinook Salmon
+Deschutes River Summer\Fall-run Chinook Salmon,10,-121.0288,45.1482,XY_R_ch_su_fa,Chinook,Deschutes River Summer-Fall-run Chinook Salmon
+Lower Columbia River Chinook Salmon,102,-122.3928,45.9783,XY_R_ch,Chinook,Lower Columbia River Chinook Salmon ESU
+Mid-Columbia River Spring-run Chinook Salmon,130,-119.8939,45.4263,XY_R_ch_sp,Chinook,Chinook Salmon (Mid-Columbia River Spring-Run)
+Puget Sound Chinook Salmon,158,-122.073,47.9137,XY_R_ch,Chinook,Puget Sound Chinook Salmon ESU
+Sacramento River Winter-run Chinook Salmon,5,-122.3351,40.4791,XY_R_ch_wi,Chinook,Sacramento River Winter-run Chinook Salmon
+Snake River Fall-run Chinook Salmon,54,-116.8504,46.0114,XY_R_ch_fa,Chinook,Snake River Fall-run Chinook Salmon ESU
+Snake River Spring/Summer-run Chinook Salmon,374,-115.4383,44.9848,XY_R_ch_sp_su,Chinook,Snake River Spring-Summer-run Chinook Salmon ESU
+Upper Columbia River Spring-run Chinook Salmon,42,-120.4897,48.24,XY_R_ch_sp,Chinook,Upper Columbia River Spring-run Chinook Salmon ESU
+Upper Columbia River Summer\Fall-run Chinook Salmon,50,-120.0498,47.1709,XY_R_ch_su_fa,Chinook,Upper Columbia River Summer and Fall Run Chinook
+Upper Willamette River Chinook Salmon,139,-122.5015,44.4919,XY_R_ch,Chinook,Upper Willamette River Chinook Salmon ESU
+Columbia River Chum Salmon,10,-122.8735,45.9891,XY_R_chum,Chum,Columbia River Chum Salmon ESU
+Hood Canal Summer-run Chum Salmon,29,-123.0151,47.6597,XY_R_chum_su,Chum,Hood Canal Summer-run Chum Salmon ESU
+Puget Sound\Strait of Georgia Chum Salmon,29,-123.0151,47.6597,XY_R_chum,Chum,Puget Sound-Strait of Georgia Chum
+Central California Coast Coho Salmon,75,-123.1045,38.6091,XY_R_coho,Coho,Central California Coast coho salmon
+Lower Columbia River Coho Salmon,127,-122.5502,45.7428,XY_R_coho,Coho,Lower Columbia River Coho Salmon ESU
+Oregon Coast Coho Salmon,348,-123.6133,44.0328,XY_R_coho,Coho,Oregon Coast Coho Salmon ESU
+Puget Sound\Strait of Georgia Coho Salmon,189,-122.3397,47.8194,XY_R_coho,Coho,Puget Sound-Strait of Georgia Coho
+Southern OR\Northern CA Coasts Coho Salmon,388,-123.4312,41.5484,XY_R_coho,Coho,So Oregon - Northern CA coho
+Even Year Pink Salmon,20,-121.6437,47.8275,XY_R_pink_ey,Pink,Even-year Pink
+Odd Year Pink Salmon,107,-121.9634,48.0726,XY_R_pink_oy,Pink,Odd-year Pink
+Baker River Sockeye Salmon,7,-121.6177,48.722,XY_R_sock,Sockeye,Baker River Sockeye
+Lake Pleasant Sockeye Salmon,1,-124.3067,48.06,XY_R_sock,Sockeye,Lake Pleasant Sockeye
+Lake Wenatchee Sockeye Salmon,7,-120.9501,47.8991,XY_R_sock,Sockeye,Lake Wenatchee Sockeye
+Okanogan River Sockeye Salmon,1,-119.3711,48.9808,XY_R_sock,Sockeye,Okanogan River Sockeye
+Ozette Lake Sockeye Salmon,5,-124.5995,48.1395,XY_R_sock,Sockeye,Ozette Lake Sockeye Salmon ESU
+Quinault Lake Sockeye Salmon,6,-123.6743,47.5591,XY_R_sock,Sockeye,Quinault Lake Sockeye
+Snake River Sockeye Salmon,10,-114.9393,44.0766,XY_R_sock,Sockeye,Snake River Sockeye Salmon ESU
+California Central Valley Steelhead,108,-121.9367,39.8466,XY_R_sthd,Steelhead,California Central Valley Steelhead
+Central California Coast Steelhead,81,-122.5769,38.1,XY_R_sthd,Steelhead,Central California Coast steelhead
+Klamath Mountains Province Steelhead,369,-123.3281,41.8265,XY_R_sthd,Steelhead,Steelhead (Klamath Mountains Province)
+Lower Columbia River Steelhead,129,-122.2031,45.7123,XY_R_sthd,Steelhead,Lower Columbia River Steelhead DPS
+Middle Columbia River Steelhead,480,-119.904,45.2944,XY_R_sthd,Steelhead,Middle Columbia River Steelhead DPS
+Northern California Steelhead,179,-123.62,39.9044,XY_R_sthd,Steelhead,Northern California steelhead
+Olympic Peninsula Steelhead,46,-124.2262,48.0046,XY_R_sthd,Steelhead,Olympic Peninsula Steelhead
+Oregon Coast Steelhead,370,-123.5834,44.0017,XY_R_sthd,Steelhead,Steelhead (Oregon Coast)
+Puget Sound Steelhead,184,-122.0997,47.9475,XY_R_sthd,Steelhead,Puget Sound Steelhead DPS
+Snake River Basin Steelhead,733,-115.9132,45.4575,XY_R_sthd,Steelhead,Snake River Basin Steelhead DPS
+South-central California Coast Steelhead,69,-121.2727,36.1818,XY_R_sthd,Steelhead,Steelhead (South-central California Coast DPS)
+Southern California Steelhead,48,-119.4819,34.4937,XY_R_sthd,Steelhead,Steelhead (Southern California Coast DPS)
+Southwest Washington Steelhead,106,-123.3817,46.6324,XY_R_sthd,Steelhead,Southwest Washington Steelhead
+Upper Columbia River Steelhead,86,-120.2489,48.1302,XY_R_sthd,Steelhead,Upper Columbia River Steelhead DPS
+Upper Willamette River Steelhead,113,-122.8537,44.9536,XY_R_sthd,Steelhead,Steelhead Salmon (Upper Willamette River)
+Big Bear Creek (provisional) Sockeye,8,-122.1167,47.6390,XY_R_sock,Sockeye,Big Bear Creek (provisional) Sockeye
+Washington Coast Chinook Salmon,115,-123.7049,47.2529,XY_R_ch,Chinook,Washington Coast Chinook
+Oregon Coast Chinook Salmon,312,-123.6342,44.0960,XY_R_ch,Chinook,Oregon Coast Chinook salmon
+Southern OR & Northern CA Coastal Chinook Salmon,136,-123.5317,42.2855,XY_R_ch,Chinook,Southern Oregon Northern California Chinook salmon
+Upper Klamath-Trinity Rivers Chinook Salmon,187,-123.0713,41.3028,XY_R_ch,Chinook,Up. Klamath - Trinity River Chinook
+Pacific Coast Chum Salmon,111,-123.8224,46.4122,XY_R_chum,Chum,Pacific Coast Chum
+Olympic Peninsula Coho Salmon,65,-124.1360,47.8934,XY_R_coho,Coho,Olympic Peninsula Coho
+Southwest Washington Coho Salmon,92,-123.4579,46.8492,XY_R_coho,Coho,Washington Coast Coho
